@@ -1,0 +1,18 @@
+<HTML>
+<HEAD>
+  <TITLE>DIVISIONES</TITLE>
+<!AUTOR: FREDY WILSON>
+</HEAD>
+ <FRAMESET ROWS="20%,50%,*">
+  <FRAME SRC="frame1.png" NAME="frame1">
+    <FRAMESET COLS="35%,65%">
+      <FRAME SRC="http://www.ucad.edu.sv/site/index.php" NAME="frame2">
+      <FRAME SRC="listas.htm" NAME="frame3">
+    </FRAMESET>
+   <FRAMESET COLS="50%, 30%, 20%">
+      <FRAME SRC="imagen.htm" NAME="frame4">
+      <FRAME SRC="color.htm" NAME="frame5">
+      <FRAME SRC="texto.htm" NAME="frame6">
+  </FRAMESET>
+</FRAMESET>
+</HTML>
